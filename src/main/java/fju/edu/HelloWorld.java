@@ -1,6 +1,6 @@
 package fju.edu;
 
-import com.tom.stu.Student;
+import fju.edu.stu.Student;
 
 public class HelloWorld {
     public static void main(String[] args) {
