@@ -9,7 +9,7 @@ public class GraduateStudent extends Student implements Mailer{
 
     @Override
     public void mail() {
-        //bla bla bla
+        System.out.print("your grade is ");
     }
 
     @Override

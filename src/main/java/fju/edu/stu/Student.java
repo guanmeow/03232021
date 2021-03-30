@@ -1,6 +1,6 @@
 package fju.edu.stu;
 
-public class Student implements Mailer {
+public abstract class Student implements Mailer {
     String id;
     String name;
     int english;
@@ -22,6 +22,6 @@ public class Student implements Mailer {
 
     @Override
     public void mail() {
-
+        System.out.print("your grade is ");
     }
 }
