@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36475919-6c3d-4da0-a95f-fe73088b6ce4" name="Default Changelist" comment="0330 box start">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fju/edu/box/box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fju/edu/box/box3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fju/edu/box/box3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fju/edu/box/boxTaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fju/edu/box/boxTaster.java" afterDir="false" />
+    <list default="true" id="36475919-6c3d-4da0-a95f-fe73088b6ce4" name="Default Changelist" comment="0330 box3 end">
+      <change afterPath="$PROJECT_DIR$/src/main/java/fju/edu/box/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fju/edu/box/Box3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fju/edu/box/BoxTaster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fju/edu/box/box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fju/edu/box/box3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fju/edu/box/box5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fju/edu/box/boxTaster.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617090812698</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="0330 box3 end">
+      <created>1617092546311</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1617092546311</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +189,7 @@
     <MESSAGE value="0330 abstrate" />
     <MESSAGE value="0330 abstrate-2" />
     <MESSAGE value="0330 box start" />
-    <option name="LAST_COMMIT_MESSAGE" value="0330 box start" />
+    <MESSAGE value="0330 box3 end" />
+    <option name="LAST_COMMIT_MESSAGE" value="0330 box3 end" />
   </component>
 </project>
