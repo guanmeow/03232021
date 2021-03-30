@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36475919-6c3d-4da0-a95f-fe73088b6ce4" name="Default Changelist" comment="0330 add interface">
-      <change beforePath="$PROJECT_DIR$/src/main/java/fju/edu/stu/GraduateStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fju/edu/stu/GraduateStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fju/edu/stu/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fju/edu/stu/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fju/edu/stu/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fju/edu/stu/Tester.java" afterDir="false" />
+    <list default="true" id="36475919-6c3d-4da0-a95f-fe73088b6ce4" name="Default Changelist" comment="0330 abstrate">
+      <change beforePath="$PROJECT_DIR$/src/main/java/fju/edu/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fju/edu/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617087542757</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="0330 abstrate">
+      <created>1617089137338</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617089137338</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +145,7 @@
     <MESSAGE value="add graduateStudent-2" />
     <MESSAGE value="0330 print id amount getTotal" />
     <MESSAGE value="0330 add interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="0330 add interface" />
+    <MESSAGE value="0330 abstrate" />
+    <option name="LAST_COMMIT_MESSAGE" value="0330 abstrate" />
   </component>
 </project>
