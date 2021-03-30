@@ -7,7 +7,7 @@ public class SeliverCustomer extends Customer {
     }
     @Override
     public int getTotal() {
-        return amount ;
+        return amount - (int)(amount * discount);
     }
 
 
