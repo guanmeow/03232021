@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36475919-6c3d-4da0-a95f-fe73088b6ce4" name="Default Changelist" comment="0330 abstrate">
-      <change beforePath="$PROJECT_DIR$/src/main/java/fju/edu/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fju/edu/HelloWorld.java" afterDir="false" />
+    <list default="true" id="36475919-6c3d-4da0-a95f-fe73088b6ce4" name="Default Changelist" comment="0330 abstrate-2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/fju/edu/box/box3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fju/edu/box/box5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fju/edu/box/boxTaster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -48,7 +51,7 @@
       <recent name="C:\Users\User\IdeaProjects\java\src\main\java\fju\edu" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tester">
+  <component name="RunManager" selected="Application.boxTaster">
     <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fju.edu.stu.Tester" />
       <module name="java.main" />
@@ -75,8 +78,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="boxTaster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fju.edu.box.boxTaster" />
+      <module name="java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fju.edu.box.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.boxTaster" />
         <item itemvalue="Application.Tester" />
         <item itemvalue="Application.Tester2" />
       </list>
@@ -126,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617089137338</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="0330 abstrate-2">
+      <created>1617089362770</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617089362770</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +170,7 @@
     <MESSAGE value="0330 print id amount getTotal" />
     <MESSAGE value="0330 add interface" />
     <MESSAGE value="0330 abstrate" />
-    <option name="LAST_COMMIT_MESSAGE" value="0330 abstrate" />
+    <MESSAGE value="0330 abstrate-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="0330 abstrate-2" />
   </component>
 </project>
