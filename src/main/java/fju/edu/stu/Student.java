@@ -1,6 +1,6 @@
 package fju.edu.stu;
 
-public class Student {
+public class Student implements Mailer {
     String id;
     String name;
     int english;
@@ -18,5 +18,10 @@ public class Student {
     }
     public void print() {
         System.out.println(id + "\t" + name + "\t" + english + "\t" + math + "\t" + (english+math)/2 );
+    }
+
+    @Override
+    public void mail() {
+
     }
 }
