@@ -1,16 +1,17 @@
 package fju.edu.racing;
 
-import jdk.swing.interop.SwingInterOpUtils;
-
-import javax.sound.midi.spi.SoundbankReader;
-
 public class Race {
     public static void main(String[] args) {
-        Horse h1 = new Horse();
-        Horse h2 = new Horse();
-        h1.start();
-        h2.start();
+        String name1 = "h1";
+        HorseRunnable hr = new HorseRunnable();
+        Thread t = new Thread(hr) ;
+        t.start();
+        Horse h = new Horse();
+        h.start();
+        for (int i = 0; i < 10000; i++) {
+            System.out.println(name1 +" " +i);
 
         }
     }
 
+}
