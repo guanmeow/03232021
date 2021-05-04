@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36475919-6c3d-4da0-a95f-fe73088b6ce4" name="Default Changelist" comment="0504 List">
+    <list default="true" id="36475919-6c3d-4da0-a95f-fe73088b6ce4" name="Default Changelist" comment="0504 ArrayList">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/chen/BetterTaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chen/BetterTaster.java" afterDir="false" />
     </list>
@@ -285,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620110660933</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="0504 ArrayList">
+      <created>1620111741815</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1620111741815</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,6 +323,7 @@
     <MESSAGE value="0427 start" />
     <MESSAGE value="0427 box simple" />
     <MESSAGE value="0504 List" />
-    <option name="LAST_COMMIT_MESSAGE" value="0504 List" />
+    <MESSAGE value="0504 ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="0504 ArrayList" />
   </component>
 </project>
