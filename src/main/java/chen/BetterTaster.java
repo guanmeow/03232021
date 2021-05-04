@@ -13,5 +13,12 @@ public class BetterTaster {
 
         Box box = (Box) boxes.get(2);
         System.out.println(box.name);
+
+        ArrayList list = new ArrayList();
+        list.add("Boxbox");
+        list.add(456789);
+        Box1 b1 = new Box1();
+        list.add(b1);
+        System.out.println(list);
     }
 }

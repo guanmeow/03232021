@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36475919-6c3d-4da0-a95f-fe73088b6ce4" name="Default Changelist" comment="0427 box simple">
+    <list default="true" id="36475919-6c3d-4da0-a95f-fe73088b6ce4" name="Default Changelist" comment="0504 List">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chen/Box.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chen/Box1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chen/Taster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chen/BetterTaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chen/BetterTaster.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,20 @@
       <recent name="C:\Users\User\IdeaProjects\java\src\main\java\fju\edu" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tester2">
+  <component name="RunManager" selected="Application.BetterTaster">
+    <configuration name="BetterTaster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chen.BetterTaster" />
+      <module name="java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BoxTaster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fju.edu.box.BoxTaster" />
       <module name="java.main" />
@@ -103,19 +114,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="fju.edu.cust.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="boxTaster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fju.edu.box.boxTaster" />
-      <module name="java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fju.edu.box.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BetterTaster" />
         <item itemvalue="Application.Tester2" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.Race" />
         <item itemvalue="Application.BoxTaster" />
-        <item itemvalue="Application.boxTaster" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619506204613</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="0504 List">
+      <created>1620110660933</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1620110660933</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -310,6 +315,7 @@
     <MESSAGE value="0413 horse runnable" />
     <MESSAGE value="0427 start" />
     <MESSAGE value="0427 box simple" />
-    <option name="LAST_COMMIT_MESSAGE" value="0427 box simple" />
+    <MESSAGE value="0504 List" />
+    <option name="LAST_COMMIT_MESSAGE" value="0504 List" />
   </component>
 </project>
