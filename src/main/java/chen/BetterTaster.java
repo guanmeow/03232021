@@ -36,5 +36,10 @@ public class BetterTaster {
         Character c = new Character('a');
         list.add(c);
         System.out.println(list);
+
+        String string = (String)list.get(0);
+        String nn = (String)list.get(1);
+//        同質才可
+
     }
 }
