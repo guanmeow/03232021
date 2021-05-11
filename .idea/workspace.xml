@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36475919-6c3d-4da0-a95f-fe73088b6ce4" name="Default Changelist" comment="0511 add TreeSet">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/Abstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/Reporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/Reporter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/Tester.java" afterDir="false" />
+    <list default="true" id="36475919-6c3d-4da0-a95f-fe73088b6ce4" name="Default Changelist" comment="0511 abstract interface">
       <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chen/collect/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chen/collect/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chen/collect/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chen/collect/Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Interface/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interface/Tester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -321,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620716974137</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="0511 abstract interface">
+      <created>1620720271631</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1620720271631</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -356,6 +356,7 @@
     <MESSAGE value="0504 add 8" />
     <MESSAGE value="0511 add list class" />
     <MESSAGE value="0511 add TreeSet" />
-    <option name="LAST_COMMIT_MESSAGE" value="0511 add TreeSet" />
+    <MESSAGE value="0511 abstract interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="0511 abstract interface" />
   </component>
 </project>
