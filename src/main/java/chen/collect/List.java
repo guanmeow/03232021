@@ -28,6 +28,10 @@ public class List  {
         Character c = new Character('a');
         list.add(c);
         System.out.println("123");
+        ArrayList<String> strings = new ArrayList<>();
+        strings.add("hello");
+        System.out.println(strings);
+
 
 
 
