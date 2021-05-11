@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36475919-6c3d-4da0-a95f-fe73088b6ce4" name="Default Changelist" comment="0504 add 8">
+      <change afterPath="$PROJECT_DIR$/src/main/java/chen/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/chen/BetterTaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chen/BetterTaster.java" afterDir="false" />
     </list>
@@ -55,7 +61,7 @@
       <recent name="C:\Users\User\IdeaProjects\java\src\main\java\fju\edu" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BetterTaster">
+  <component name="RunManager" selected="Application.List">
     <configuration name="BetterTaster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chen.BetterTaster" />
       <module name="java.main" />
@@ -69,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoxTaster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fju.edu.box.BoxTaster" />
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fju.edu.HelloWorld" />
       <module name="java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fju.edu.box.*" />
+          <option name="PATTERN" value="fju.edu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fju.edu.HelloWorld" />
+    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chen.List" />
       <module name="java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fju.edu.*" />
+          <option name="PATTERN" value="chen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.List" />
         <item itemvalue="Application.BetterTaster" />
         <item itemvalue="Application.Tester2" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.Race" />
-        <item itemvalue="Application.BoxTaster" />
       </list>
     </recent_temporary>
   </component>
