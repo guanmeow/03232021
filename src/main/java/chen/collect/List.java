@@ -1,4 +1,6 @@
-package chen;
+package chen.collect;
+
+import chen.Box1;
 
 import java.util.ArrayList;
 
